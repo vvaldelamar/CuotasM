@@ -16,8 +16,7 @@ Estamos para resolver tus dudas y ayudarte a implementar la plataforma en tu con
 
 ## 🙋 ¿Cómo podemos ayudarte?
 
-> [!TIP]
-> Antes de escribirnos, revisa estas secciones rápidas que podrían resolver tu duda:
+> 💡 **Tip:** Antes de escribirnos, revisa estas secciones rápidas que podrían resolver tu duda:
 
 | Si necesitas… | Visita |
 |---------------|--------|

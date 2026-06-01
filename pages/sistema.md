@@ -60,8 +60,7 @@ Clasificación personalizable de conceptos para mantener un control financiero o
 
 Registro diario de transacciones con selección de tipo, descripción y comprobante de pago.
 
-> [!NOTE]
-> Cada transacción puede asociarse a una imagen de comprobante, creando un **rastro auditable** de todos los movimientos financieros.
+> 📌 **Nota:** Cada transacción puede asociarse a una imagen de comprobante, creando un **rastro auditable** de todos los movimientos financieros.
 
 | Función | Descripción |
 |---------|-------------|
@@ -102,8 +101,7 @@ flowchart LR
 | **4** | El sistema genera los estados de cuenta automáticamente |
 | **5** | Los estados de cuenta se envían por correo a cada propietario |
 
-> [!TIP]
-> El formato del estado de cuenta se personaliza según las necesidades de tu condominio: incluye gráficos, detalle de movimientos y saldo actual.
+> 💡 **Tip:** El formato del estado de cuenta se personaliza según las necesidades de tu condominio: incluye gráficos, detalle de movimientos y saldo actual.
 
 ---
 

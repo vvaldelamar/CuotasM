@@ -43,8 +43,7 @@
 
 La plataforma automatiza la generación de estados de cuenta, el envío de correos, el control de ingresos y egresos, y más, liberando a la mesa directiva de tareas operativas repetitivas.
 
-> [!TIP]
-> ¿Tienes preguntas? Escríbenos a [ingweb054@gmail.com](mailto:ingweb054@gmail.com) y te responderemos en menos de 24 horas.
+> 💡 **Tip:** ¿Tienes preguntas? Escríbenos a [ingweb054@gmail.com](mailto:ingweb054@gmail.com) y te responderemos en menos de 24 horas.
 
 ---
 

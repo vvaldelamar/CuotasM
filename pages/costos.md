@@ -12,8 +12,7 @@ Precios anuales basados en el número de casas del condominio. Incluye soporte t
 | 68 – 100 | **$800** | |
 | 101 – 200 | **$1,000** | ✅ |
 
-> [!NOTE]
-> Todos los planes incluyen: plataforma completa, migración de datos inicial y soporte técnico durante la vigencia.
+> 📌 **Nota:** Todos los planes incluyen: plataforma completa, migración de datos inicial y soporte técnico durante la vigencia.
 
 ---
 
@@ -55,8 +54,7 @@ sequenceDiagram
 
 ## 📬 Cuenta de correo para el condominio
 
-> [!TIP]
-> **¡Incluido sin costo adicional!**
+> 💡 **Tip:** ¡Incluido sin costo adicional!
 
 Módulo de correo electrónico corporativo que se entrega con cada plan.
 

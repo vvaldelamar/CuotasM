@@ -26,8 +26,7 @@ El primer paso es migrar el historial de pagos desde el administrador anterior. 
 - [ ] **Reunión de revisión** — Se programa una reunión para revisar la migración junto con la mesa directiva
 - [ ] **Verificación** — Se generan estados de cuenta aleatorios para verificar la exactitud de los datos
 
-> [!NOTE]
-> La reunión de revisión es clave para asegurar que todos los saldos iniciales coincidan con los registros del administrador anterior.
+> 📌 **Nota:** La reunión de revisión es clave para asegurar que todos los saldos iniciales coincidan con los registros del administrador anterior.
 
 ---
 
@@ -63,8 +62,7 @@ La mesa directiva define los parámetros financieros base del sistema.
 
 Estos valores se configuran como constantes en el sistema y se reflejan automáticamente en todos los estados de cuenta. Cualquier cambio futuro se actualiza de forma centralizada.
 
-> [!TIP]
-> Recomendamos iniciar con periodicidad **mensual** para facilitar la adopción por parte de los propietarios.
+> 💡 **Tip:** Recomendamos iniciar con periodicidad **mensual** para facilitar la adopción por parte de los propietarios.
 
 ---
 
