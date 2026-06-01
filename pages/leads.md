@@ -4,7 +4,7 @@ Primero que nada, mil gracias por comunicarte con nosotros.
 
 > 📌 **Nota:** Muy pronto nos pondremos en contacto para resolver tus dudas o comentarios. Normalmente respondemos en menos de 24 horas hábiles.
 
-![Querétaro](../../assets/images/qro.png)
+<img src="../../assets/images/qro.png" alt="Querétaro" width="260">
 
 ## 📚 Mientras tanto…
 
