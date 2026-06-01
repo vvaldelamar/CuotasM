@@ -15,7 +15,7 @@ Panel de control central con indicadores clave, gráficos de ingresos/egresos y 
 | ⚡ **Acceso rápido** | Enlaces directos a los módulos más utilizados |
 | 🔔 **Alertas** | Notificaciones de pagos vencidos y recibos pendientes |
 
-![Dashboard](../assets/screenshots/aplicacion_1.png)
+![Dashboard](../../assets/screenshots/aplicacion_1.png)
 
 ---
 
@@ -30,9 +30,9 @@ Registro completo de cada unidad del condominio. Base para la generación de est
 | **Correo electrónico** | Para envío automatizado de estados de cuenta |
 | **Teléfono** | Contacto directo para comunicados urgentes |
 
-![Catálogo de casas](../assets/screenshots/aplicacion_3.png)
+![Catálogo de casas](../../assets/screenshots/aplicacion_3.png)
 
-![Detalle del catálogo](../assets/screenshots/aplicacion_10.png)
+![Detalle del catálogo](../../assets/screenshots/aplicacion_10.png)
 
 ---
 
@@ -48,10 +48,10 @@ Clasificación personalizable de conceptos para mantener un control financiero o
 | Cuotas extraordinarias | Jardinería |
 | Rentas de áreas comunes | Mantenimiento general |
 
-![Ingresos](../assets/screenshots/aplicacion_4.png)
+![Ingresos](../../assets/screenshots/aplicacion_4.png)
 *Catálogo de ingresos*
 
-![Egresos](../assets/screenshots/aplicacion_5.png)
+![Egresos](../../assets/screenshots/aplicacion_5.png)
 *Catálogo de egresos*
 
 ---
@@ -70,9 +70,9 @@ Registro diario de transacciones con selección de tipo, descripción y comproba
 | 🔍 **Búsqueda y filtros** | Encuentra cualquier transacción por fecha, concepto o monto |
 | 📤 **Exportación** | Descarga reportes en CSV para contabilidad externa |
 
-![Registro de ingresos](../assets/screenshots/aplicacion_6.png)
+![Registro de ingresos](../../assets/screenshots/aplicacion_6.png)
 
-![Registro de egresos](../assets/screenshots/aplicacion_7.png)
+![Registro de egresos](../../assets/screenshots/aplicacion_7.png)
 
 ---
 
@@ -80,7 +80,7 @@ Registro diario de transacciones con selección de tipo, descripción y comproba
 
 El sistema genera automáticamente estados de cuenta detallados para cada propietario y los envía por correo electrónico **sin intervención manual**.
 
-![Estado de cuenta](../assets/screenshots/aplicacion_2.png)
+![Estado de cuenta](../../assets/screenshots/aplicacion_2.png)
 
 ### Flujo de operación
 
@@ -120,7 +120,7 @@ Acceso a cámaras IP en tiempo real vía protocolo RTSP directamente desde la ap
 | **Cámaras compatibles** | Dahua, Hilook, IPCOM |
 | **Acceso** | Enlace directo desde el dashboard web |
 
-![Videovigilancia](../assets/screenshots/aplicacion_8.png)
+![Videovigilancia](../../assets/screenshots/aplicacion_8.png)
 
 ---
 
