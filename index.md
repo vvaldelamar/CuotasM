@@ -53,7 +53,7 @@
 
 ## 📖 Acerca del proyecto
 
-**ing-web** es un proyecto de **Cloud Empresarial** enfocado en proveer herramientas digitales a condominios y asociaciones civiles.
+**CuotasM** es un proyecto de **Cloud Empresarial** enfocado en proveer herramientas digitales a condominios y asociaciones civiles.
 
 La plataforma automatiza la generación de estados de cuenta, el envío de correos, el control de ingresos y egresos, liberando a la mesa directiva de tareas operativas repetitivas.
 

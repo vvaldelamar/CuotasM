@@ -39,7 +39,7 @@
 
 ## 📖 Acerca del proyecto
 
-**ing-web** es un proyecto de ☁️ *Cloud Empresarial* enfocado en proveer herramientas digitales a condominios y asociaciones civiles radicadas en **Santiago de Querétaro, México**.
+**CuotasM** es un proyecto de ☁️ *Cloud Empresarial* enfocado en proveer herramientas digitales a condominios y asociaciones civiles radicadas en **Santiago de Querétaro, México**.
 
 La plataforma automatiza la generación de estados de cuenta, el envío de correos, el control de ingresos y egresos, y más, liberando a la mesa directiva de tareas operativas repetitivas.
 
