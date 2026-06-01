@@ -1,13 +1,12 @@
-<div align="center">
-  <h1>🚀 Conoce la aplicación</h1>
-  <p>Plataforma modular para la administración de condominios. Cada módulo está diseñado para cubrir una necesidad específica de la mesa directiva y los residentes.</p>
-</div>
+# 🚀 Conoce la aplicación
+
+Plataforma modular para la administración de condominios. Cada módulo está diseñado para cubrir una necesidad específica de la mesa directiva y los residentes.
 
 ---
 
 ## 📊 Dashboard
 
-> Panel de control central con indicadores clave, gráficos de ingresos/egresos y acceso rápido a los módulos principales.
+Panel de control central con indicadores clave, gráficos de ingresos/egresos y acceso rápido a los módulos principales.
 
 | Capacidad | Descripción |
 |-----------|-------------|
@@ -41,39 +40,19 @@ Registro completo de cada unidad del condominio. Base para la generación de est
 
 Clasificación personalizable de conceptos para mantener un control financiero ordenado.
 
-<div align="center">
-  <table>
-    <tr>
-      <th align="center">💰 Ingresos</th>
-      <th align="center">💸 Egresos</th>
-    </tr>
-    <tr>
-      <td valign="top">
-        <ul>
-          <li>Multas por infracciones</li>
-          <li>Tarjetas de acceso</li>
-          <li>Llaves de repuesto</li>
-          <li>Cuotas extraordinarias</li>
-          <li>Rentas de áreas comunes</li>
-        </ul>
-      </td>
-      <td valign="top">
-        <ul>
-          <li>Recolección de basura</li>
-          <li>Electricidad</li>
-          <li>Lectura de agua</li>
-          <li>Jardinería</li>
-          <li>Mantenimiento general</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
+| 💰 Ingresos | 💸 Egresos |
+|---|---|
+| Multas por infracciones | Recolección de basura |
+| Tarjetas de acceso | Electricidad |
+| Llaves de repuesto | Lectura de agua |
+| Cuotas extraordinarias | Jardinería |
+| Rentas de áreas comunes | Mantenimiento general |
 
-| | |
-|:---:|:---:|
-| ![Ingresos](../assets/screenshots/aplicacion_4.png) | ![Egresos](../assets/screenshots/aplicacion_5.png) |
-| *Catálogo de ingresos* | *Catálogo de egresos* |
+![Ingresos](../assets/screenshots/aplicacion_4.png)
+*Catálogo de ingresos*
+
+![Egresos](../assets/screenshots/aplicacion_5.png)
+*Catálogo de egresos*
 
 ---
 
@@ -146,9 +125,10 @@ Acceso a cámaras IP en tiempo real vía protocolo RTSP directamente desde la ap
 ---
 
 <div align="center">
-  <h3>¿Listo para digitalizar tu condominio?</h3>
+  <p><strong>¿Listo para digitalizar tu condominio?</strong></p>
   <p>
-    <a href="iniciamos.md"><strong>📋 Ver proceso de inicio →</strong></a> · 
+    <a href="iniciamos.md"><strong>📋 Ver proceso de inicio →</strong></a>
+    ·
     <a href="costos.md"><strong>💰 Ver planes →</strong></a>
   </p>
   <br>

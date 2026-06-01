@@ -1,26 +1,21 @@
-<div align="center">
-  <h1>📋 Iniciar en la aplicación</h1>
-  <p>Guía de onboarding para nuevas comunidades. El proceso completo consta de cuatro fases.</p>
-</div>
+# 📋 Iniciar en la aplicación
+
+Guía de onboarding para nuevas comunidades. El proceso completo consta de cuatro fases.
 
 ---
 
-<div align="center">
-  <h2>📌 Progreso del onboarding</h2>
-  <p>
-    <!-- Filled steps -->
-    <strong>Fase 1</strong> ✅         
-    <strong>Fase 2</strong> ⬜         
-    <strong>Fase 3</strong> ⬜         
-    <strong>Fase 4</strong> ⬜
-  </p>
-</div>
+## 📌 Progreso del onboarding
+
+**Fase 1** ✅ —
+**Fase 2** ⬜ —
+**Fase 3** ⬜ —
+**Fase 4** ⬜
 
 ---
 
 ## Fase 1 — Migración de datos
 
-> ⏱️ **Duración estimada:** 3–5 días hábiles
+⏱️ **Duración estimada:** 3–5 días hábiles
 
 El primer paso es migrar el historial de pagos desde el administrador anterior. Nuestro equipo se encarga de todo el proceso técnico.
 
@@ -38,7 +33,7 @@ El primer paso es migrar el historial de pagos desde el administrador anterior. 
 
 ## Fase 2 — Registro de casas
 
-> ⏱️ **Duración estimada:** 1–2 días hábiles
+⏱️ **Duración estimada:** 1–2 días hábiles
 
 La mesa directiva o los administradores entregan un catálogo completo de las unidades del condominio.
 
@@ -57,7 +52,7 @@ La mesa directiva o los administradores entregan un catálogo completo de las un
 
 ## Fase 3 — Monto de cuotas de mantenimiento
 
-> ⏱️ **Duración estimada:** Medio día (en reunión con la mesa directiva)
+⏱️ **Duración estimada:** Medio día (en reunión con la mesa directiva)
 
 La mesa directiva define los parámetros financieros base del sistema.
 
@@ -75,7 +70,7 @@ Estos valores se configuran como constantes en el sistema y se reflejan automát
 
 ## Fase 4 — Periodicidad de estados de cuenta
 
-> ⏱️ **Duración estimada:** Medio día (en reunión con la mesa directiva)
+⏱️ **Duración estimada:** Medio día (en reunión con la mesa directiva)
 
 Se acuerda la configuración final del módulo de comunicaciones.
 

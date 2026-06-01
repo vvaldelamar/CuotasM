@@ -1,36 +1,16 @@
-<div align="center">
-  <h1>💰 Costos de la aplicación</h1>
-  <p>Precios anuales basados en el número de casas del condominio. Incluye soporte técnico y actualizaciones.</p>
-</div>
+# 💰 Costos de la aplicación
+
+Precios anuales basados en el número de casas del condominio. Incluye soporte técnico y actualizaciones.
 
 ---
 
 ## 📋 Planes anuales
 
-<div align="center">
-  <table>
-    <tr>
-      <th align="center">Casas</th>
-      <th align="center">Precio anual (USD)</th>
-      <th align="center">Recomendado</th>
-    </tr>
-    <tr>
-      <td align="center">1 – 67</td>
-      <td align="center"><strong>$600</strong></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">68 – 100</td>
-      <td align="center"><strong>$800</strong></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">101 – 200</td>
-      <td align="center"><strong>$1,000</strong></td>
-      <td align="center">✅</td>
-    </tr>
-  </table>
-</div>
+| Casas | Precio anual (USD) | Recomendado |
+|-------|-------------------:|:-----------:|
+| 1 – 67 | **$600** | |
+| 68 – 100 | **$800** | |
+| 101 – 200 | **$1,000** | ✅ |
 
 > [!NOTE]
 > Todos los planes incluyen: plataforma completa, migración de datos inicial y soporte técnico durante la vigencia.
@@ -41,30 +21,11 @@
 
 Módulos adicionales que pueden adquirirse por separado para extender la funcionalidad de la plataforma.
 
-<div align="center">
-  <table>
-    <tr>
-      <th align="center">Módulo</th>
-      <th align="center">Precio (USD)</th>
-      <th align="center">Descripción</th>
-    </tr>
-    <tr>
-      <td align="center"><strong>Básico</strong></td>
-      <td align="center">$300</td>
-      <td>Funcionalidad adicional simple (ej. reporte personalizado)</td>
-    </tr>
-    <tr>
-      <td align="center"><strong>Medio</strong></td>
-      <td align="center">$600</td>
-      <td>Integraciones con servicios externos o módulo nuevo de tamaño medio</td>
-    </tr>
-    <tr>
-      <td align="center"><strong>Premium</strong></td>
-      <td align="center">$1,000</td>
-      <td>Módulo completo nuevo con interfaz, lógica de negocio y reportes</td>
-    </tr>
-  </table>
-</div>
+| Módulo | Precio (USD) | Descripción |
+|--------|-------------:|-------------|
+| **Básico** | $300 | Funcionalidad adicional simple (ej. reporte personalizado) |
+| **Medio** | $600 | Integraciones con servicios externos o módulo nuevo de tamaño medio |
+| **Premium** | $1,000 | Módulo completo nuevo con interfaz, lógica de negocio y reportes |
 
 ### Flujo de desarrollo de un módulo personalizado
 
@@ -130,10 +91,8 @@ Sí, se firma un contrato anual de prestación de servicios que especifica térm
 ---
 
 <div align="center">
-  <h3>¿Listo para empezar?</h3>
-  <p>
-    <a href="contacto.md"><strong>📧 Contáctanos →</strong></a>
-  </p>
+  <p><strong>¿Listo para empezar?</strong></p>
+  <p><a href="contacto.md"><strong>📧 Contáctanos →</strong></a></p>
   <br>
   <a href="../README.md">← Volver al inicio</a>
 </div>
