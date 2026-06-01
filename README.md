@@ -52,6 +52,4 @@ La plataforma automatiza la generación de estados de cuenta, el envío de corre
   <a href="pages/iniciamos/">Iniciar</a> ·
   <a href="pages/costos/">Costos</a> ·
   <a href="pages/contacto/">Contacto</a>
-  <br><br>
-  © 2026 Cloud Empresarial — Santiago de Querétaro, México. Todos los derechos reservados.
 </p>
