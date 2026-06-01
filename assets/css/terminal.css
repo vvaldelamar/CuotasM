@@ -503,16 +503,17 @@ body {
 /* ---- Mermaid diagrams ---- */
 .page-content .mermaid {
     background: #0d1117;
-    border: 1px solid #21262d;
-    border-radius: 4px;
-    padding: 16px;
-    margin: 12px 0 16px;
+    border: 1px solid #2ea043;
+    border-radius: 6px;
+    padding: 20px;
+    margin: 16px 0;
     overflow-x: auto;
     text-align: center;
 }
 
 .page-content .mermaid svg {
     max-width: 100%;
+    height: auto;
 }
 
 /* ---- Details/Summary (FAQ) ---- */

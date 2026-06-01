@@ -29,7 +29,11 @@
     <script src="https://www.gstatic.com/firebasejs/10.14.1/firebase-app-compat.js"></script>
     <script src="https://www.gstatic.com/firebasejs/10.14.1/firebase-database-compat.js"></script>
     <script>
-      mermaid.initialize({startOnLoad:false,theme:'dark',fontFamily:'monospace'});
+      mermaid.initialize({startOnLoad:false,theme:'base',themeVariables:{
+        background:'#0d1117',primaryColor:'#1a3a1a',primaryTextColor:'#00ff00',
+        primaryBorderColor:'#00ff00',lineColor:'#00ff00',secondaryColor:'#0d1117',
+        tertiaryColor:'#0d1117',fontFamily:'monospace',fontSize:'14px'
+      }});
 
       firebase.initializeApp({
         apiKey: "AIzaSyBSQN8A2Max5WFLae8eRnXit56LgghNsuQ",
