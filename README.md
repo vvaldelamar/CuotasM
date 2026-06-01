@@ -1,6 +1,5 @@
 <div align="center">
   <img src="cuotasm-logo.jpg" alt="CuotasM Logo" width="120" />
-  <h1>CuotasM</h1>
   <p><strong>🏘️ Cuotas de Mantenimiento</strong></p>
   <p>Plataforma integral para la gestión de pagos y cobros en condominios</p>
 </div>
