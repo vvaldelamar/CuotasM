@@ -14,15 +14,16 @@ Estamos para resolver tus dudas y ayudarte a implementar la plataforma en tu con
 
 ---
 
-## 🙋 ¿Cómo podemos ayudarte?
-
 > 💡 **Tip:** Antes de escribirnos, revisa estas secciones rápidas que podrían resolver tu duda:
 
-| Si necesitas… | Visita |
-|---------------|--------|
-| Conocer la plataforma | [🚀 Conoce la aplicación](../sistema/) |
-| Ver costos y planes | [💰 Costos](../costos/) |
-| Entender el proceso de inicio | [📋 Iniciar en la aplicación](../iniciamos/) |
+## 🙋 ¿Cómo podemos ayudarte?
+
+<div class="tree"><pre>
+cuotas-m/
+├── <a href="../sistema/">sistema/</a>        <span class="tree-desc"># 🚀 Conoce la aplicación</span>
+├── <a href="../costos/">costos/</a>         <span class="tree-desc"># 💰 Costos y planes</span>
+└── <a href="../iniciamos/">iniciamos/</a>      <span class="tree-desc"># 📋 Iniciar en la aplicación</span>
+</pre></div>
 
 ---
 
