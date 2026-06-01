@@ -1,17 +1,3 @@
-<div align="center">
-  <img src="cuotasm-logo.jpg" alt="CuotasM Logo" width="60" />
-  <h1>🏘️ Cuotas de Mantenimiento</h1>
-  <p><strong>Plataforma integral para la gestión de pagos y cobros en condominios</strong></p>
-  <div class="badge-row">
-    <img src="https://img.shields.io/badge/Estado-Producción-2ea44f" alt="Estado: Producción" />
-    <img src="https://img.shields.io/badge/Stack-PHP%20%7C%20MariaDB%20%7C%20Python-4a90d9" alt="Stack" />
-    <img src="https://img.shields.io/badge/Sede-Querétaro%2C%20México-e67e22" alt="Ubicación" />
-  </div>
-</div>
-
-> 💡 **Gestionar pagos y cobros en condominios puede ser complicado.**  
-> Por eso desarrollamos una aplicación que simplifica y automatiza este proceso.
-
 ---
 
 ## 🎯 Valor diferencial
