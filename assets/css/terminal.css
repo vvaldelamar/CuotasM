@@ -553,6 +553,44 @@ body {
     gap: 8px;
 }
 
+/* ===== Stats bar (views + likes) ===== */
+.stats-bar {
+    display: flex;
+    gap: 20px;
+    padding: 8px 0 0 20px;
+    border-top: 1px solid #21262d;
+    margin-top: 8px;
+}
+
+.stat {
+    color: #484f58;
+    font-size: 12px;
+    font-family: 'SFMono-Regular', 'Consolas', monospace;
+}
+
+.like-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+    color: #484f58;
+    transition: color 0.2s;
+}
+
+.like-btn:hover {
+    color: #f78166;
+}
+
+.like-btn.liked {
+    color: #f78166;
+}
+
+@media (max-width: 640px) {
+    .stats-bar {
+        padding-left: 12px;
+    }
+}
+
 .cursor {
     color: #00ff00;
     animation: blink 1s step-end infinite;

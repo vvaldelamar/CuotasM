@@ -24,9 +24,27 @@
 
     <title>{{ page.title | default: "Cuotas de Mantenimiento" }}</title>
     <link rel="stylesheet" href="{{ '/assets/css/terminal.css' | relative_url }}">
+
     <script src="https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.min.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/11/dist/firebase-app-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/11/dist/firebase-database-compat.js"></script>
     <script>
       mermaid.initialize({startOnLoad:false,theme:'dark',fontFamily:'monospace'});
+
+      firebase.initializeApp({
+        apiKey: "AIzaSyBSQN8A2Max5WFLae8eRnXit56LgghNsuQ",
+        authDomain: "ing-web-b42c9.firebaseapp.com",
+        databaseURL: "https://ing-web-b42c9-default-rtdb.firebaseio.com",
+        projectId: "ing-web-b42c9",
+        storageBucket: "ing-web-b42c9.firebasestorage.app",
+        messagingSenderId: "1020177281602",
+        appId: "1:1020177281602:web:550f3d61ae3e9a0e9cf3db",
+        measurementId: "G-T9M3ZT5NG6"
+      });
+
+      var db=firebase.database();
+      var pageKey=location.pathname.replace(/\/$/,'')||'/';
+
       document.addEventListener('DOMContentLoaded',function(){
         document.querySelectorAll('pre code.language-mermaid').forEach(function(el){
           var div=document.createElement('div');
@@ -49,7 +67,47 @@
           tick();
           setInterval(tick,1000);
         }
+
+        initStats();
       });
+
+      function initStats(){
+        var viewEl=document.getElementById('viewCount');
+        var likeEl=document.getElementById('likeCount');
+        var likeBtn=document.getElementById('likeBtn');
+        if(!viewEl&&!likeEl) return;
+
+        var viewRef=db.ref('views/'+pageKey);
+        var likeRef=db.ref('likes/'+pageKey);
+
+        viewRef.transaction(function(c){return (c||0)+1;});
+
+        viewRef.on('value',function(snap){if(viewEl) viewEl.textContent=snap.val()||0;});
+        likeRef.on('value',function(snap){if(likeEl) likeEl.textContent=snap.val()||0;});
+
+        if(likeBtn){
+          var liked=localStorage.getItem('liked_'+pageKey)==='1';
+          if(liked){
+            likeBtn.classList.add('liked');
+            document.getElementById('likeIcon').textContent='❤️';
+          }
+
+          likeBtn.addEventListener('click',function(){
+            var likedNow=localStorage.getItem('liked_'+pageKey)==='1';
+            if(likedNow){
+              likeRef.transaction(function(c){return Math.max(0,(c||1)-1);});
+              localStorage.removeItem('liked_'+pageKey);
+              likeBtn.classList.remove('liked');
+              document.getElementById('likeIcon').textContent='🤍';
+            }else{
+              likeRef.transaction(function(c){return (c||0)+1;});
+              localStorage.setItem('liked_'+pageKey,'1');
+              likeBtn.classList.add('liked');
+              document.getElementById('likeIcon').textContent='❤️';
+            }
+          });
+        }
+      }
     </script>
 </head>
 <body>
@@ -101,6 +159,10 @@
             <div class="output footer-text">
                 <span class="cursor">█</span>
                 <p class="copyright">© 2026 Cloud Empresarial — Santiago de Querétaro, México</p>
+            </div>
+            <div class="stats-bar">
+                <span class="stat">👁️ <span id="viewCount">—</span></span>
+                <button class="stat like-btn" id="likeBtn"><span id="likeIcon">🤍</span> <span id="likeCount">—</span></button>
             </div>
         </footer>
 
