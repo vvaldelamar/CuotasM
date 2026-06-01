@@ -12,10 +12,13 @@ Primero que nada, mil gracias por comunicarte con nosotros.
 
 Aprovecha para explorar más sobre la plataforma:
 
-- [🚀 Conoce la aplicación](../sistema/) — Descubre todos los módulos y funcionalidades
-- [💰 Costos y planes](../costos/) — Revisa los planes anuales y módulos personalizados
-- [📋 Proceso de inicio](../iniciamos/) — Conoce las 4 fases del onboarding
-- [🏠 Volver al inicio](../../) — Página principal del sitio
+<div class="tree"><pre>
+cuotas-m/
+├── <a href="../sistema/">sistema/</a>        <span class="tree-desc"># 🚀 Conoce la aplicación</span>
+├── <a href="../iniciamos/">iniciamos/</a>      <span class="tree-desc"># 📋 Proceso de inicio</span>
+├── <a href="../costos/">costos/</a>         <span class="tree-desc"># 💰 Costos y planes</span>
+└── <a href="../../">inicio/</a>         <span class="tree-desc"># 🏠 Volver al inicio</span>
+</pre></div>
 
 ---
 

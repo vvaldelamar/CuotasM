@@ -216,6 +216,32 @@ body {
     margin-right: 0 !important;
 }
 
+/* ===== Tree (directory listing) ===== */
+.page-content .tree pre {
+    background: transparent;
+    border: none;
+    padding: 0;
+    margin: 8px 0;
+    font-size: 13px;
+    line-height: 1.7;
+    color: #8b949e;
+}
+
+.page-content .tree a {
+    color: #58a6ff;
+    text-decoration: none;
+}
+
+.page-content .tree a:hover {
+    color: #00ff00;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+}
+
+.tree-desc {
+    color: #484f58;
+}
+
 /* ===== Navigation Cards (Explora la plataforma) ===== */
 .nav-cards {
     display: grid;
