@@ -21,9 +21,9 @@ Estamos para resolver tus dudas y ayudarte a implementar la plataforma en tu con
 
 | Si necesitas… | Visita |
 |---------------|--------|
-| Conocer la plataforma | [🚀 Conoce la aplicación](sistema/) |
-| Ver costos y planes | [💰 Costos](costos/) |
-| Entender el proceso de inicio | [📋 Iniciar en la aplicación](iniciamos/) |
+| Conocer la plataforma | [🚀 Conoce la aplicación](../sistema/) |
+| Ver costos y planes | [💰 Costos](../costos/) |
+| Entender el proceso de inicio | [📋 Iniciar en la aplicación](../iniciamos/) |
 
 ---
 
@@ -44,5 +44,5 @@ Te responderemos a la brevedad.
 
 <div align="center">
   <br>
-  <a href="../">← Volver al inicio</a>
+  <a href="../../">← Volver al inicio</a>
 </div>
