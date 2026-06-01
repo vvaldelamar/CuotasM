@@ -51,8 +51,6 @@
 
 ---
 
-<div class="about-section" markdown="1">
-
 ## 📖 Acerca del proyecto
 
 **ing-web** es un proyecto de **Cloud Empresarial** enfocado en proveer herramientas digitales a condominios y asociaciones civiles.
@@ -60,8 +58,6 @@
 La plataforma automatiza la generación de estados de cuenta, el envío de correos, el control de ingresos y egresos, liberando a la mesa directiva de tareas operativas repetitivas.
 
 > Escríbenos a [ingweb054@gmail.com](mailto:ingweb054@gmail.com) — te responderemos en menos de 24 horas.
-
-</div>
 
 ---
 

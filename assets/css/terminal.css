@@ -216,33 +216,6 @@ body {
     margin-right: 0 !important;
 }
 
-/* ===== About section ===== */
-.about-section {
-    text-align: center;
-}
-
-.about-section h2 {
-    border-bottom: none;
-    justify-content: center;
-}
-
-.about-section h2::before {
-    content: '';
-}
-
-.about-section p {
-    max-width: 560px;
-    margin: 0 auto 12px;
-    color: #c9d1d9;
-}
-
-.about-section blockquote {
-    border-left-color: #00ff00;
-    max-width: 500px;
-    margin: 16px auto;
-    background: transparent;
-}
-
 /* ===== Navigation Cards (Explora la plataforma) ===== */
 .nav-cards {
     display: grid;
