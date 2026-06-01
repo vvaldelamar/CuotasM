@@ -82,7 +82,7 @@ Se acuerda la configuración final del módulo de comunicaciones.
 
 El sistema genera y envía los estados de cuenta automáticamente según la programación definida, **sin intervención manual**.
 
-<img src="../assets/images/scheduler_1.png" alt="Programación de envíos" width="80%" />
+<img src="../assets/images/scheduler_1.png" alt="Programación de envíos" width="60%" style="max-width:480px;" />
 
 ---
 
