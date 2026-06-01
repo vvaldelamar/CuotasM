@@ -43,7 +43,7 @@
       });
 
       var db=firebase.database();
-      var pageKey=location.pathname.replace(/\/$/,'')||'/';
+      var pageKey=(location.pathname.replace(/\/CuotasM\/?/,'').replace(/\/$/,'')||'index').replace(/\//g,'_');
 
       document.addEventListener('DOMContentLoaded',function(){
         document.querySelectorAll('pre code.language-mermaid').forEach(function(el){
