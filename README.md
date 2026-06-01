@@ -1,9 +1,10 @@
 <div align="center">
- <h1>CuotasM</h1>
+  <img src="cuotasm-logo.jpg" alt="CuotasM Logo" width="120" />
+  <h1>CuotasM</h1>
   <p><strong>🏘️ Cuotas de Mantenimiento</strong></p>
   <p>Plataforma integral para la gestión de pagos y cobros en condominios</p>
 </div>
-  <img src="cuotasm-logo.jpg" alt="CuotasM Logo" width="180" />
+
 <br>
 
 Plataforma integral para la gestión de pagos y cobros en unidades habitacionales o condominios, diseñada especialmente para comunidades residenciales pequeñas. 📍 Con sede en **Santiago de Querétaro, México**.
