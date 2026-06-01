@@ -197,7 +197,7 @@ body {
 .badge-row {
     display: flex;
     justify-content: center;
-    gap: 6px;
+    gap: 0;
     flex-wrap: nowrap;
     margin: 8px 0;
 }
@@ -234,6 +234,7 @@ body {
     border-color: #00ff00;
     background: #111;
     transform: translateY(-2px);
+    color: inherit;
     text-decoration: none;
 }
 
@@ -245,11 +246,7 @@ body {
 }
 
 .nav-card:hover strong {
-    color: #00ff00;
-}
-
-.nav-card:hover span {
-    color: #c9d1d9;
+    color: #f0f6fc;
 }
 
 .nav-card span {
@@ -257,6 +254,10 @@ body {
     color: #8b949e;
     font-size: 13px;
     line-height: 1.5;
+}
+
+.nav-card:hover span {
+    color: #8b949e;
 }
 
 /* ===== Page Content ===== */
