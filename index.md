@@ -39,26 +39,23 @@
 
 ## ls ~/projects/
 
-<div class="badge-row" style="justify-content:flex-start;">
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white" alt="MariaDB" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" />
+<div class="tech-stack">
+<span class="tech">PHP</span><span class="tech">MariaDB</span><span class="tech">Python</span><span class="tech">JavaScript</span><span class="tech">Docker</span><span class="tech">Linux</span><span class="tech">Git</span>
 </div>
 
 ---
 
+<div class="about-section" markdown="1">
+
 ## 📖 Acerca del proyecto
 
-**ing-web** es un proyecto de ☁️ *Cloud Empresarial* enfocado en proveer herramientas digitales a condominios y asociaciones civiles radicadas en **Santiago de Querétaro, México**.
+**ing-web** es un proyecto de **Cloud Empresarial** enfocado en proveer herramientas digitales a condominios y asociaciones civiles.
 
-La plataforma automatiza la generación de estados de cuenta, el envío de correos, el control de ingresos y egresos, y más, liberando a la mesa directiva de tareas operativas repetitivas.
+La plataforma automatiza la generación de estados de cuenta, el envío de correos, el control de ingresos y egresos, liberando a la mesa directiva de tareas operativas repetitivas.
 
-> [!TIP]
-> ¿Tienes preguntas? Escríbenos a [ingweb054@gmail.com](mailto:ingweb054@gmail.com) y te responderemos en menos de 24 horas.
+> Escríbenos a [ingweb054@gmail.com](mailto:ingweb054@gmail.com) — te responderemos en menos de 24 horas.
+
+</div>
 
 ---
 
@@ -68,5 +65,5 @@ La plataforma automatiza la generación de estados de cuenta, el envío de corre
   <a href="pages/costos/">Costos</a> ·
   <a href="pages/contacto/">Contacto</a>
   <br><br>
-  © 2026 Cloud Empresarial — Santiago de Querétaro, México. Todos los derechos reservados.
+  © 2026 Cloud Empresarial — Santiago de Querétaro, México
 </p>
