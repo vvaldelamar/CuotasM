@@ -36,7 +36,6 @@
 </div>
 
 ---
-
 ## 📖 Acerca del proyecto
 
 **CuotasM** es un proyecto de ☁️ *Cloud Empresarial* enfocado en proveer herramientas digitales a condominios y asociaciones civiles radicadas en **Santiago de Querétaro, México**.
