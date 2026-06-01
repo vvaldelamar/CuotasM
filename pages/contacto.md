@@ -4,6 +4,16 @@ Estamos para resolver tus dudas y ayudarte a implementar la plataforma en tu con
 
 ---
 
+## whoami
+
+Cloud Empresarial — Plataforma integral para la gestión de pagos y cobros en condominios — Santiago de Querétaro, México
+
+## ls ~/projects/
+
+PHP &nbsp; MariaDB &nbsp; Python &nbsp; JavaScript &nbsp; Docker &nbsp; Linux &nbsp; Git
+
+---
+
 ## 📍 Información de contacto
 
 | | |
