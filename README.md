@@ -1,5 +1,5 @@
 # 🏘️ Cuotas de Mantenimiento
-![CuotasM Logo](cuotasm-logo.png)
+![CuotasM Logo](logo-ing-web.jpg)
 
 Plataforma integral para la gestión de pagos y cobros en unidades habitacionales o condominios, diseñada especialmente para comunidades residenciales pequeñas. 📍 Con sede en **Santiago de Querétaro, México**.
 
