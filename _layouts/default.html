@@ -35,6 +35,20 @@
           el.parentElement.parentNode.replaceChild(div,el.parentElement);
         });
         if(document.querySelectorAll('.mermaid').length) mermaid.run({nodes:document.querySelectorAll('.mermaid')});
+
+        var el=document.getElementById('countdown');
+        if(el){
+          function pad(n){return String(n).padStart(2,'0');}
+          function tick(){
+            var now=new Date();
+            var end=new Date(now.getFullYear(),now.getMonth()+1,0,23,59,59);
+            var d=end-now;
+            if(d<=0){el.textContent='0d 0h 0m 0s';return;}
+            el.textContent=Math.floor(d/864e5)+'d '+pad(Math.floor(d/36e5)%24)+'h '+pad(Math.floor(d/6e4)%60)+'m '+pad(Math.floor(d/1e3)%60)+'s';
+          }
+          tick();
+          setInterval(tick,1000);
+        }
       });
     </script>
 </head>

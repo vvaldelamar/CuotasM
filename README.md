@@ -12,6 +12,14 @@
 > 💡 **Gestionar pagos y cobros en condominios puede ser complicado.**  
 > Por eso desarrollamos una aplicación que simplifica y automatiza este proceso.
 
+<div class="offer-banner">
+  <a href="pages/contacto/">
+    <span class="offer-tag">🔥 Oferta del mes</span>
+    <span class="offer-title">Contrata cualquier plan este mes y recibe <strong>2 meses gratis</strong></span>
+    <span class="offer-timer">⏱️ Quedan <span id="countdown">—</span></span>
+  </a>
+</div>
+
 ---
 
 ## 🎯 Valor diferencial

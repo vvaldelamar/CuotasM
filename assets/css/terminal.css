@@ -105,6 +105,68 @@ body {
     text-underline-offset: 3px;
 }
 
+/* ===== Offer Banner ===== */
+.offer-banner {
+    margin: 20px 0;
+    border: 1px solid #00ff00;
+    border-radius: 6px;
+    background: linear-gradient(135deg, #0a1a0a 0%, #000 100%);
+    transition: box-shadow 0.3s;
+    animation: offer-pulse 3s ease-in-out infinite;
+}
+
+@keyframes offer-pulse {
+    0%, 100% { box-shadow: 0 0 8px rgba(0,255,0,0.15); }
+    50% { box-shadow: 0 0 20px rgba(0,255,0,0.35); }
+}
+
+.offer-banner:hover {
+    animation: none;
+    box-shadow: 0 0 25px rgba(0,255,0,0.5);
+}
+
+.offer-banner a {
+    display: block;
+    padding: 16px 20px;
+    text-decoration: none;
+    text-align: center;
+}
+
+.offer-banner a:hover {
+    text-decoration: none;
+}
+
+.offer-tag {
+    display: inline-block;
+    background: #00ff00;
+    color: #000;
+    font-weight: 700;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    padding: 2px 10px;
+    border-radius: 3px;
+    margin-bottom: 8px;
+}
+
+.offer-title {
+    display: block;
+    color: #f0f6fc;
+    font-size: 15px;
+    margin-bottom: 6px;
+}
+
+.offer-title strong {
+    color: #00ff00;
+}
+
+.offer-timer {
+    display: block;
+    color: #8b949e;
+    font-size: 13px;
+    font-variant-numeric: tabular-nums;
+}
+
 /* ===== Badge row ===== */
 .badge-row {
     display: flex;
