@@ -1,11 +1,12 @@
 <div align="center">
-  <img src="cuotasm-logo.jpg" alt="CuotasM Logo" width="140" />
+  <img src="cuotasm-logo.jpg" alt="CuotasM Logo" width="100" />
   <h1>🏘️ Cuotas de Mantenimiento</h1>
   <p><strong>Plataforma integral para la gestión de pagos y cobros en condominios</strong></p>
-
-  <img src="https://img.shields.io/badge/Estado-Producción-2ea44f" alt="Estado: Producción" />
-  <img src="https://img.shields.io/badge/Stack-PHP%20%7C%20MariaDB%20%7C%20Python-4a90d9" alt="Stack" />
-  <img src="https://img.shields.io/badge/Sede-Querétaro%2C%20México-e67e22" alt="Ubicación" />
+  <p style="white-space:nowrap;">
+    <img src="https://img.shields.io/badge/Estado-Producción-2ea44f" alt="Estado: Producción" />
+    <img src="https://img.shields.io/badge/Stack-PHP%20%7C%20MariaDB%20%7C%20Python-4a90d9" alt="Stack" />
+    <img src="https://img.shields.io/badge/Sede-Querétaro%2C%20México-e67e22" alt="Ubicación" />
+  </p>
 </div>
 
 > 💡 **Gestionar pagos y cobros en condominios puede ser complicado.**  
@@ -25,20 +26,28 @@
 
 ## 📚 Explora la plataforma
 
-### [🚀 Conoce la aplicación](pages/sistema/)
-Dashboard, catálogo de casas, ingresos/egresos, estados de cuenta y videovigilancia
-
-### [📋 Iniciar en la aplicación](pages/iniciamos/)
-Proceso de onboarding y migración de datos paso a paso
-
-### [💰 Costos](pages/costos/)
-Planes de precios y módulos personalizados
-
-### [📧 Contacto](pages/contacto/)
-Información de contacto y formulario
-
-### [🙏 ¡Gracias!](pages/leads/)
-Página de agradecimiento post-contacto
+<div class="nav-cards">
+  <a href="pages/sistema/" class="nav-card">
+    <strong>🚀 Conoce la aplicación</strong>
+    <span>Dashboard, catálogo de casas, ingresos/egresos, estados de cuenta y videovigilancia</span>
+  </a>
+  <a href="pages/iniciamos/" class="nav-card">
+    <strong>📋 Iniciar en la aplicación</strong>
+    <span>Proceso de onboarding y migración de datos paso a paso</span>
+  </a>
+  <a href="pages/costos/" class="nav-card">
+    <strong>💰 Costos</strong>
+    <span>Planes de precios y módulos personalizados</span>
+  </a>
+  <a href="pages/contacto/" class="nav-card">
+    <strong>📧 Contacto</strong>
+    <span>Información de contacto y formulario</span>
+  </a>
+  <a href="pages/leads/" class="nav-card">
+    <strong>🙏 ¡Gracias!</strong>
+    <span>Página de agradecimiento post-contacto</span>
+  </a>
+</div>
 
 ---
 

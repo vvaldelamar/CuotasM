@@ -105,6 +105,44 @@ body {
     text-underline-offset: 3px;
 }
 
+/* ===== Navigation Cards (Explora la plataforma) ===== */
+.nav-cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 12px;
+    margin: 20px 0;
+}
+
+.nav-card {
+    display: block;
+    background: #0d1117;
+    border: 1px solid #21262d;
+    border-radius: 6px;
+    padding: 18px 16px;
+    text-decoration: none;
+    transition: border-color 0.2s, background 0.2s, transform 0.15s;
+}
+
+.nav-card:hover {
+    border-color: #00ff00;
+    background: #111;
+    transform: translateY(-2px);
+}
+
+.nav-card strong {
+    display: block;
+    color: #00ff00;
+    font-size: 15px;
+    margin-bottom: 6px;
+}
+
+.nav-card span {
+    display: block;
+    color: #8b949e;
+    font-size: 13px;
+    line-height: 1.5;
+}
+
 /* ===== Page Content ===== */
 .page-content {
     padding-left: 20px;
