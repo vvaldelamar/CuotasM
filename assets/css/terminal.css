@@ -234,13 +234,22 @@ body {
     border-color: #00ff00;
     background: #111;
     transform: translateY(-2px);
+    text-decoration: none;
 }
 
 .nav-card strong {
     display: block;
-    color: #00ff00;
+    color: #f0f6fc;
     font-size: 15px;
     margin-bottom: 6px;
+}
+
+.nav-card:hover strong {
+    color: #00ff00;
+}
+
+.nav-card:hover span {
+    color: #c9d1d9;
 }
 
 .nav-card span {
