@@ -68,7 +68,7 @@ Sí. Todo el acceso es vía HTTPS con cifrado SSL. Los datos se alojan en servid
 <details>
 <summary><strong>¿Puedo tener módulos especiales?</strong></summary>
 <br>
-Sí. Desarrollamos módulos a la medida: cobro con terminal bancaria, integración con tu portafolio de proveedores, reportes personalizados o cualquier necesidad específica de tu condominio.
+Sí. Desarrollamos módulos a la medida: integración con tu portafolio de proveedores, reportes personalizados o cualquier necesidad específica de tu condominio.
 </details>
 
 <details>
