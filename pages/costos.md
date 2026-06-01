@@ -42,6 +42,15 @@ sequenceDiagram
     Programador->>Cliente: Implementa en producción
 ```
 
+| Paso | De | Para | Descripción |
+|------|----|------|-------------|
+| 1 | Cliente | Programador | Solicita módulo personalizado |
+| 2 | Programador | Cliente | Presenta propuesta y costo |
+| 3 | Cliente | Programador | Aprueba desarrollo |
+| 4 | Programador | Cliente | Entrega módulo terminado |
+| 5 | Cliente | Programador | Prueba y valida |
+| 6 | Programador | Cliente | Implementa en producción |
+
 ---
 
 ## 📬 Cuenta de correo para el condominio

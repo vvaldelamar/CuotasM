@@ -8,7 +8,18 @@
     <title>{{ page.title | default: "Cuotas de Mantenimiento" }}</title>
     <link rel="stylesheet" href="{{ '/assets/css/terminal.css' | relative_url }}">
     <script src="https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.min.js"></script>
-    <script>mermaid.initialize({startOnLoad:true,theme:'dark',fontFamily:'monospace'})</script>
+    <script>
+      mermaid.initialize({startOnLoad:false,theme:'dark',fontFamily:'monospace'});
+      document.addEventListener('DOMContentLoaded',function(){
+        document.querySelectorAll('pre code.language-mermaid').forEach(function(el){
+          var div=document.createElement('div');
+          div.className='mermaid';
+          div.textContent=el.textContent;
+          el.parentElement.parentNode.replaceChild(div,el.parentElement);
+        });
+        if(document.querySelectorAll('.mermaid').length) mermaid.run({nodes:document.querySelectorAll('.mermaid')});
+      });
+    </script>
 </head>
 <body>
     <main class="terminal">
