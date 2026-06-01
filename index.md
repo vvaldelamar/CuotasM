@@ -51,6 +51,46 @@
 
 ---
 
+## ❓ Preguntas frecuentes
+
+<details>
+<summary><strong>¿Cómo solicito una prueba?</strong></summary>
+<br>
+Escribe a <a href="mailto:ingweb054@gmail.com">ingweb054@gmail.com</a> con el nombre de tu condominio y número de casas. Te habilitaremos un entorno de prueba sin costo ni compromiso.
+</details>
+
+<details>
+<summary><strong>¿Es seguro?</strong></summary>
+<br>
+Sí. Todo el acceso es vía HTTPS con cifrado SSL. Los datos se alojan en servidores con autenticación por sesión y firewalls. No compartimos información con terceros.
+</details>
+
+<details>
+<summary><strong>¿Puedo tener módulos especiales?</strong></summary>
+<br>
+Sí. Desarrollamos módulos a la medida: cobro con terminal bancaria, integración con tu portafolio de proveedores, reportes personalizados o cualquier necesidad específica de tu condominio.
+</details>
+
+<details>
+<summary><strong>¿Se necesita instalar algo?</strong></summary>
+<br>
+No. Es 100% web — funciona en cualquier navegador, dispositivo o sistema operativo. Solo necesitas internet.
+</details>
+
+<details>
+<summary><strong>¿Cuánto tiempo toma la implementación?</strong></summary>
+<br>
+La migración completa toma de 1 a 2 semanas, dependiendo del volumen de datos históricos. Durante el proceso te acompañamos paso a paso.
+</details>
+
+<details>
+<summary><strong>¿Hay contrato forzoso?</strong></summary>
+<br>
+No. Trabajamos por periodos mensuales sin penalización por cancelación. Queremos que sigas porque el sistema te funciona, no porque estés atado.
+</details>
+
+---
+
 ## 📖 Acerca del proyecto
 
 **CuotasM** es un proyecto de **Cloud Empresarial** enfocado en proveer herramientas digitales a condominios y asociaciones civiles.
