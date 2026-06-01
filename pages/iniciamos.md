@@ -46,7 +46,7 @@ La mesa directiva o los administradores entregan un catálogo completo de las un
 | 3 | **Correo electrónico** | Envío automatizado de estados de cuenta |
 | 4 | **Teléfono** | Contacto para comunicados urgentes |
 
-> Consulta el [módulo de catálogo de casas](sistema.md#-catálogo-de-casas) para más detalle sobre esta funcionalidad.
+> Consulta el [módulo de catálogo de casas](sistema/#-catálogo-de-casas) para más detalle sobre esta funcionalidad.
 
 ---
 
@@ -99,7 +99,7 @@ Una vez completadas las cuatro fases, la plataforma queda operativa y la mesa di
 
 <div align="center">
   <br>
-  <a href="costos.md"><strong>💰 Ver planes y costos →</strong></a>
+  <a href="costos/"><strong>💰 Ver planes y costos →</strong></a>
   <br><br>
-  <a href="../README.md">← Volver al inicio</a>
+  <a href="../">← Volver al inicio</a>
 </div>

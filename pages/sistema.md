@@ -127,10 +127,10 @@ Acceso a cámaras IP en tiempo real vía protocolo RTSP directamente desde la ap
 <div align="center">
   <p><strong>¿Listo para digitalizar tu condominio?</strong></p>
   <p>
-    <a href="iniciamos.md"><strong>📋 Ver proceso de inicio →</strong></a>
+    <a href="iniciamos/"><strong>📋 Ver proceso de inicio →</strong></a>
     ·
-    <a href="costos.md"><strong>💰 Ver planes →</strong></a>
+    <a href="costos/"><strong>💰 Ver planes →</strong></a>
   </p>
   <br>
-  <a href="../README.md">← Volver al inicio</a>
+  <a href="../">← Volver al inicio</a>
 </div>

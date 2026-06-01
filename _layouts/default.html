@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Cuotas de Mantenimiento - Plataforma integral para la gestión de pagos y cobros en condominios">
+    <meta name="theme-color" content="#0a0a0a">
+    <title>{{ page.title | default: "Cuotas de Mantenimiento" }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/terminal.css' | relative_url }}">
+</head>
+<body>
+    <main class="terminal">
+
+        <header class="session">
+            <div class="line">
+                <span class="prompt">$</span>
+                <span class="cmd">./cuotas-m<span class="arg"> --info</span></span>
+            </div>
+            <div class="output">
+                <div class="app-brand">
+                    <span class="app-icon">🏘️</span>
+                    <span class="app-name">Cuotas de Mantenimiento</span>
+                </div>
+                <div class="app-desc">Plataforma integral para la gestión de pagos y cobros en condominios</div>
+                <nav class="nav-bar">
+                    <a href="{{ '/' | relative_url }}" class="nav-link">Inicio</a>
+                    <a href="{{ '/pages/sistema/' | relative_url }}" class="nav-link">Sistema</a>
+                    <a href="{{ '/pages/iniciamos/' | relative_url }}" class="nav-link">Iniciar</a>
+                    <a href="{{ '/pages/costos/' | relative_url }}" class="nav-link">Costos</a>
+                    <a href="{{ '/pages/contacto/' | relative_url }}" class="nav-link">Contacto</a>
+                </nav>
+            </div>
+        </header>
+
+        <div class="page-content">
+            {{ content }}
+        </div>
+
+        <footer class="session">
+            <div class="line">
+                <span class="prompt">$</span>
+                <span class="cmd">uptime<span class="arg"></span></span>
+            </div>
+            <div class="output footer-text">
+                <span class="cursor">█</span>
+                <p class="copyright">© 2026 Cloud Empresarial — Santiago de Querétaro, México</p>
+            </div>
+        </footer>
+
+    </main>
+</body>
+</html>

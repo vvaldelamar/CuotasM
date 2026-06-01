@@ -12,15 +12,15 @@ Primero que nada, mil gracias por comunicarte con nosotros.
 
 Aprovecha para explorar más sobre la plataforma:
 
-- [🚀 Conoce la aplicación](sistema.md) — Descubre todos los módulos y funcionalidades
-- [💰 Costos y planes](costos.md) — Revisa los planes anuales y módulos personalizados
-- [📋 Proceso de inicio](iniciamos.md) — Conoce las 4 fases del onboarding
-- [🏠 Volver al inicio](../README.md) — Página principal del sitio
+- [🚀 Conoce la aplicación](sistema/) — Descubre todos los módulos y funcionalidades
+- [💰 Costos y planes](costos/) — Revisa los planes anuales y módulos personalizados
+- [📋 Proceso de inicio](iniciamos/) — Conoce las 4 fases del onboarding
+- [🏠 Volver al inicio](../) — Página principal del sitio
 
 ---
 
 <div align="center">
   <p><em>¡Te esperamos con gusto!</em></p>
   <br>
-  <a href="../README.md">← Volver al inicio</a>
+  <a href="../">← Volver al inicio</a>
 </div>

@@ -25,19 +25,19 @@
 
 ## 📚 Explora la plataforma
 
-### [🚀 Conoce la aplicación](pages/sistema.md)
+### [🚀 Conoce la aplicación](pages/sistema/)
 Dashboard, catálogo de casas, ingresos/egresos, estados de cuenta y videovigilancia
 
-### [📋 Iniciar en la aplicación](pages/iniciamos.md)
+### [📋 Iniciar en la aplicación](pages/iniciamos/)
 Proceso de onboarding y migración de datos paso a paso
 
-### [💰 Costos](pages/costos.md)
+### [💰 Costos](pages/costos/)
 Planes de precios y módulos personalizados
 
-### [📧 Contacto](pages/contacto.md)
+### [📧 Contacto](pages/contacto/)
 Información de contacto y formulario
 
-### [🙏 ¡Gracias!](pages/leads.md)
+### [🙏 ¡Gracias!](pages/leads/)
 Página de agradecimiento post-contacto
 
 ---
@@ -54,10 +54,10 @@ La plataforma automatiza la generación de estados de cuenta, el envío de corre
 ---
 
 <p align="center">
-  <a href="pages/sistema.md">Sistema</a> ·
-  <a href="pages/iniciamos.md">Iniciar</a> ·
-  <a href="pages/costos.md">Costos</a> ·
-  <a href="pages/contacto.md">Contacto</a>
+  <a href="pages/sistema/">Sistema</a> ·
+  <a href="pages/iniciamos/">Iniciar</a> ·
+  <a href="pages/costos/">Costos</a> ·
+  <a href="pages/contacto/">Contacto</a>
   <br><br>
   © 2026 Cloud Empresarial — Santiago de Querétaro, México. Todos los derechos reservados.
 </p>
