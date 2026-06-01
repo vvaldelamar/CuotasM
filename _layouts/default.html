@@ -80,7 +80,16 @@
         var viewRef=db.ref('views/'+pageKey);
         var likeRef=db.ref('likes/'+pageKey);
 
-        viewRef.transaction(function(c){return (c||0)+1;});
+        fetch('https://api.ipify.org?format=json').then(function(r){return r.json();}).then(function(d){
+          var ip=d.ip;
+          if(ip && !localStorage.getItem('viewed_ip_'+ip)){
+            var isHome=location.pathname==='/'||location.pathname==='/CuotasM/'||location.pathname==='/CuotasM';
+            if(isHome){
+              viewRef.transaction(function(c){return (c||0)+1;});
+              localStorage.setItem('viewed_ip_'+ip,'1');
+            }
+          }
+        }).catch(function(){});
 
         viewRef.on('value',function(snap){if(viewEl) viewEl.textContent=snap.val()||0;});
         likeRef.on('value',function(snap){if(likeEl) likeEl.textContent=snap.val()||0;});
