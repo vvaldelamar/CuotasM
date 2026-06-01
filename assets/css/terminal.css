@@ -105,6 +105,25 @@ body {
     text-underline-offset: 3px;
 }
 
+/* ===== Badge row ===== */
+.badge-row {
+    display: flex;
+    justify-content: center;
+    gap: 6px;
+    flex-wrap: nowrap;
+    margin: 8px 0;
+}
+
+.badge-row img {
+    display: inline-block;
+    height: 20px;
+    width: auto;
+    border: none;
+    margin: 0;
+    border-radius: 0;
+    max-height: none;
+}
+
 /* ===== Navigation Cards (Explora la plataforma) ===== */
 .nav-cards {
     display: grid;
