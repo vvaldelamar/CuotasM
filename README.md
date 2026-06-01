@@ -1,16 +1,28 @@
-## Hi there 👋
+# Cuotas de Mantenimiento
 
-<!--
-**vvaldelamar/vvaldelamar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Plataforma integral para la gestión de pagos y cobros en unidades habitacionales o condominios, diseñada especialmente para comunidades residenciales pequeñas. Con sede en **Santiago de Querétaro, México**.
 
-Here are some ideas to get you started:
+> Gestionar pagos y cobros en condominios puede ser complicado. Por eso desarrollamos una aplicación que simplifica y automatiza este proceso.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Contenido
+
+- [Conoce la aplicación →](pages/sistema.md) — Dashboard, catálogo de casas, ingresos/egresos, estados de cuenta y videovigilancia
+- [Iniciar en la aplicación →](pages/iniciamos.md) — Proceso de onboarding y migración de datos
+- [Costos →](pages/costos.md) — Planes de precios y módulos personalizados
+- [Contacto →](pages/contacto.md) — Información de contacto y formulario
+
+---
+
+## Acerca del proyecto
+
+**ing-web** es un proyecto de *Cloud Empresarial* enfocado en proveer herramientas digitales a condominios y asociaciones civiles. La plataforma automatiza la generación de estados de cuenta, el envío de correos, el control de ingresos y egresos, y más.
+
+Para más información: [ing-web@ingeniero-web.com](mailto:ingweb054@gmail.com)
+
+---
+
+<p align="center">
+  <sub>© 2025 Cloud Empresarial. Todos los derechos reservados.</sub>
+</p>
