@@ -33,19 +33,12 @@ sequenceDiagram
     actor Cliente
     actor CuotasM
 
-    Cliente->>CuotasM: Solicita módulo personalizado
+    Cliente->>CuotasM: Solicita módulo
     activate CuotasM
-    CuotasM->>Cliente: Envía propuesta técnica y costo
-    deactivate CuotasM
-    Cliente->>CuotasM: Aprueba propuesta
-    activate CuotasM
-    Note over CuotasM: Desarrollo del módulo
-    CuotasM->>Cliente: Entrega versión para pruebas
-    deactivate CuotasM
-    Cliente->>CuotasM: Prueba y envía retroalimentación
-    activate CuotasM
-    CuotasM->>Cliente: Realiza ajustes finales
-    CuotasM->>Cliente: Implementa en producción
+    CuotasM->>Cliente: Propuesta técnica y costo
+    Cliente->>CuotasM: Aprueba
+    CuotasM->>Cliente: Desarrollo + pruebas
+    CuotasM->>Cliente: Implementación en producción
     Note over Cliente,CuotasM: Capacitación incluida
     deactivate CuotasM
 ```
