@@ -30,25 +30,35 @@ Módulos adicionales que pueden adquirirse por separado para extender la funcion
 
 ```mermaid
 sequenceDiagram
-    participant Cliente
-    participant Programador
+    actor Cliente
+    actor CuotasM
 
-    Cliente->>Programador: Solicita módulo personalizado
-    Programador->>Cliente: Presenta propuesta y costo
-    Cliente->>Programador: Aprueba desarrollo
-    Programador->>Cliente: Entrega módulo terminado
-    Cliente->>Programador: Prueba y valida
-    Programador->>Cliente: Implementa en producción
+    Cliente->>CuotasM: Solicita módulo personalizado
+    activate CuotasM
+    CuotasM->>Cliente: Envía propuesta técnica y costo
+    deactivate CuotasM
+    Cliente->>CuotasM: Aprueba propuesta
+    activate CuotasM
+    Note over CuotasM: Desarrollo del módulo
+    CuotasM->>Cliente: Entrega versión para pruebas
+    deactivate CuotasM
+    Cliente->>CuotasM: Prueba y envía retroalimentación
+    activate CuotasM
+    CuotasM->>Cliente: Realiza ajustes finales
+    CuotasM->>Cliente: Implementa en producción
+    Note over Cliente,CuotasM: Capacitación incluida
+    deactivate CuotasM
 ```
 
 | Paso | De | Para | Descripción |
 |------|----|------|-------------|
-| 1 | Cliente | Programador | Solicita módulo personalizado |
-| 2 | Programador | Cliente | Presenta propuesta y costo |
-| 3 | Cliente | Programador | Aprueba desarrollo |
-| 4 | Programador | Cliente | Entrega módulo terminado |
-| 5 | Cliente | Programador | Prueba y valida |
-| 6 | Programador | Cliente | Implementa en producción |
+| 1 | Cliente | CuotasM | Solicita módulo personalizado |
+| 2 | CuotasM | Cliente | Envía propuesta técnica y costo |
+| 3 | Cliente | CuotasM | Aprueba la propuesta |
+| 4 | CuotasM | — | Desarrolla el módulo |
+| 5 | CuotasM | Cliente | Entrega versión para pruebas |
+| 6 | Cliente | CuotasM | Prueba y envía retroalimentación |
+| 7 | CuotasM | Cliente | Realiza ajustes e implementa en producción |
 
 ---
 
