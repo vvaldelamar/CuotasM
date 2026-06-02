@@ -1,4 +1,3 @@
-
 ## 🎯 Valor diferencial
 
 | ⚡ Automatización total | 🔒 Transparencia | 📱 100% web |
