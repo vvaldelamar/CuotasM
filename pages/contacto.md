@@ -14,9 +14,9 @@ Estamos para resolver tus dudas y ayudarte a implementar la plataforma en tu con
 
 <div class="tree"><pre>
 cuotas-m/
-├── <a href="../sistema/">sistema/</a>        <span class="tree-desc"># 🚀 Conoce la aplicación</span>
-├── <a href="../costos/">costos/</a>         <span class="tree-desc"># 💰 Costos y planes</span>
-└── <a href="../iniciamos/">iniciamos/</a>      <span class="tree-desc"># 📋 Proceso de inicio</span>
+├── <a href="../sistema.md">sistema/</a>        <span class="tree-desc"># 🚀 Conoce la aplicación</span>
+├── <a href="../costos.md">costos/</a>         <span class="tree-desc"># 💰 Costos y planes</span>
+└── <a href="../iniciamos.md">iniciamos/</a>      <span class="tree-desc"># 📋 Proceso de inicio</span>
 </pre></div>
 
 ## 📩 Escríbenos

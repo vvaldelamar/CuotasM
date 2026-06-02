@@ -12,9 +12,9 @@ Aprovecha para explorar más sobre la plataforma:
 
 <div class="tree"><pre>
 cuotas-m/
-├── <a href="../sistema/">sistema/</a>        <span class="tree-desc"># 🚀 Conoce la aplicación</span>
-├── <a href="../iniciamos/">iniciamos/</a>      <span class="tree-desc"># 📋 Proceso de inicio</span>
-├── <a href="../costos/">costos/</a>         <span class="tree-desc"># 💰 Costos y planes</span>
+├── <a href="../sistema.md">sistema/</a>        <span class="tree-desc"># 🚀 Conoce la aplicación</span>
+├── <a href="../iniciamos.md">iniciamos/</a>      <span class="tree-desc"># 📋 Proceso de inicio</span>
+├── <a href="../costos.md">costos/</a>         <span class="tree-desc"># 💰 Costos y planes</span>
 └── <a href="../../">inicio/</a>         <span class="tree-desc"># 🏠 Volver al inicio</span>
 </pre></div>
 

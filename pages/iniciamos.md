@@ -97,7 +97,7 @@ Una vez completadas las cuatro fases, la plataforma queda operativa y la mesa di
 
 <div align="center">
   <br>
-  <a href="../costos/"><strong>💰 Ver planes y costos →</strong></a>
+  <a href="../costos.md"><strong>💰 Ver planes y costos →</strong></a>
   <br><br>
   <a href="../../">← Volver al inicio</a>
 </div>

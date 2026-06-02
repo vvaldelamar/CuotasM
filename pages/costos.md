@@ -102,7 +102,7 @@ Sí, se firma un contrato anual de prestación de servicios que especifica térm
 
 <div align="center">
   <p><strong>¿Listo para empezar?</strong></p>
-  <p><a href="../contacto/"><strong>📧 Contáctanos →</strong></a></p>
+  <p><a href="../contacto.md"><strong>📧 Contáctanos →</strong></a></p>
   <br>
   <a href="../../">← Volver al inicio</a>
 </div>
