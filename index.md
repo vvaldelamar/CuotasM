@@ -1,13 +1,3 @@
-## 🎯 Valor diferencial
-
-| ⚡ Automatización total | 🔒 Transparencia | 📱 100% web |
-|---|---|---|
-| Estados de cuenta generados y enviados por correo sin intervención manual | Cada propietario accede a sus movimientos, saldos y recibos en tiempo real | Sin instalaciones. Funciona en cualquier navegador, dispositivo o sistema operativo |
-| **📊 Reportes inteligentes** | **📬 Correo corporativo** | **🎥 Videovigilancia** |
-| Dashboard con gráficos de ingresos/egresos y saldos por periodo | 20 cuentas de correo con dominio propio para la mesa directiva | Cámaras IP en tiempo real desde la misma plataforma (opcional) |
-
----
-
 ## 📚 Explora la plataforma
 
 <div class="nav-cards">
@@ -32,6 +22,16 @@
     <span>Página de agradecimiento post-contacto</span>
   </a>
 </div>
+
+---
+
+## 🎯 Valor diferencial
+
+| ⚡ Automatización total | 🔒 Transparencia | 📱 100% web |
+|---|---|---|
+| Estados de cuenta generados y enviados por correo sin intervención manual | Cada propietario accede a sus movimientos, saldos y recibos en tiempo real | Sin instalaciones. Funciona en cualquier navegador, dispositivo o sistema operativo |
+| **📊 Reportes inteligentes** | **📬 Correo corporativo** | **🎥 Videovigilancia** |
+| Dashboard con gráficos de ingresos/egresos y saldos por periodo | 20 cuentas de correo con dominio propio para la mesa directiva | Cámaras IP en tiempo real desde la misma plataforma (opcional) |
 
 ---
 
