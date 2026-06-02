@@ -1,4 +1,3 @@
----
 
 ## 🎯 Valor diferencial
 
