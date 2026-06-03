@@ -105,20 +105,42 @@ flowchart LR
 
 ---
 
-## 🎥 Módulo de videovigilancia (opcional)
+## 📡 Módulo de integración de dispositivos IoT (opcional)
 
-Acceso a cámaras IP en tiempo real vía protocolo RTSP directamente desde la aplicación web.
+Conecta tu condominio con el mundo físico. Integramos lectores de tarjetas, sirenas inteligentes, sensores y sistemas de videovigilancia basados en IA para que todo esté centralizado desde la plataforma.
+
+### Dispositivos compatibles
+
+| Tipo | Ejemplos | Función |
+|------|----------|---------|
+| **Lectores de tarjetas** | RFID, NFC, banda magnética | Control de acceso a áreas comunes (estacionamiento, gimnasio, salón de eventos) |
+| **Sirenas inteligentes** | eWeLink, Sonoff | Alertas sonoras programables ante eventos de seguridad, emergencias o recordatorios |
+| **Sensores IoT** | Temperatura, humo, gas, movimiento, apertura de puertas | Monitoreo en tiempo real de áreas comunes con notificaciones automáticas |
+| **Actuadores** | Relés inteligentes, cerraduras eléctricas | Apertura remota de portones, cancelas y puertas desde el dashboard |
+
+### 🎥 Videovigilancia con IA (Frigate)
+
+La videovigilancia se maneja a través de **Frigate**, un sistema de detección de objetos con IA que corre localmente. Frigate analiza el video en tiempo real, distinguiendo personas, vehículos, animales y objetos.
+
+| Característica | Descripción |
+|---------------|-------------|
+| **Detección inteligente** | IA local que distingue personas, vehículos, animales y objetos |
+| **Sin falsas alarmas** | Solo notifica cuando realmente hay actividad relevante |
+| **Grabación por eventos** | Almacena clips solo cuando se detecta movimiento significativo |
+| **Integración total** | Acceso a cámaras en vivo, grabaciones y notificaciones desde el dashboard |
+| **Notificaciones** | Alertas por correo o push al detectar eventos configurados |
 
 ### Requerimientos técnicos
 
 | Componente | Especificación |
 |------------|----------------|
-| **NVR** | Raspberry Pi 3 o 4 |
-| **Almacenamiento** | Hasta 5 días de eventos en loop |
-| **Cámaras compatibles** | Dahua, Hilook, IPCOM |
-| **Acceso** | Enlace directo desde el dashboard web |
+| **Servidor Frigate** | Raspberry Pi 4, Jetson Nano, o servidor x86 con Coral TPU (recomendado) |
+| **Almacenamiento** | Hasta 7 días de eventos históricos con grabación inteligente |
+| **Cámaras compatibles** | Cualquier cámara IP RTSP (Dahua, Hilook, Hikvision, Reolink, etc.) |
+| **Conectividad** | WiFi / Ethernet para dispositivos IoT |
+| **Acceso** | Panel unificado desde el dashboard web |
 
-![Videovigilancia](../../assets/screenshots/aplicacion_8.png)
+![Integración IoT y videovigilancia](../../assets/screenshots/aplicacion_11.jpg)
 
 ---
 

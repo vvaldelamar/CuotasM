@@ -3,7 +3,7 @@
 <div class="nav-cards">
   <a href="pages/sistema/" class="nav-card">
     <strong>🚀 Conoce la aplicación</strong>
-    <span>Dashboard, catálogo de casas, ingresos/egresos, estados de cuenta y videovigilancia</span>
+    <span>Dashboard, catálogo de casas, ingresos/egresos, estados de cuenta e integración IoT</span>
   </a>
   <a href="pages/iniciamos/" class="nav-card">
     <strong>📋 Iniciar en la aplicación</strong>
@@ -30,8 +30,8 @@
 | ⚡ Automatización total | 🔒 Transparencia | 📱 100% web |
 |---|---|---|
 | Estados de cuenta generados y enviados por correo sin intervención manual | Cada propietario accede a sus movimientos, saldos y recibos en tiempo real | Sin instalaciones. Funciona en cualquier navegador, dispositivo o sistema operativo |
-| **📊 Reportes inteligentes** | **📬 Correo corporativo** | **🎥 Videovigilancia** |
-| Dashboard con gráficos de ingresos/egresos y saldos por periodo | 20 cuentas de correo con dominio propio para la mesa directiva | Cámaras IP en tiempo real desde la misma plataforma (opcional) |
+| **📊 Reportes inteligentes** | **📬 Correo corporativo** | **📡 IoT e integraciones** |
+| Dashboard con gráficos de ingresos/egresos y saldos por periodo | 20 cuentas de correo con dominio propio para la mesa directiva | Lectores de tarjetas, sirenas, sensores y videovigilancia con IA desde la plataforma (opcional) |
 
 ---
 
